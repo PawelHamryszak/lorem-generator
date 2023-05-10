@@ -12,7 +12,7 @@ const App = () => {
   };
   return (
     <section className="section-center">
-      <h4>tired lorem ipsum element</h4>
+      <h4>Some Lorem Ipsum</h4>
       <form className="lorem-form" onSubmit={handleSubmit}>
         <label htmlFor="amount">Paragraphs</label>
         <input
